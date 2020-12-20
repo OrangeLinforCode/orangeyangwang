@@ -11,6 +11,7 @@
     <modules>
         <module>warehouse-sparksql</module>
         <module>warehouse-sparkstreaming</module>
+        <module>warehouse-structure-streaming</module>
     </modules>
 
 
